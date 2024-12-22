@@ -1,0 +1,62 @@
+* {
+margin 0;
+box-sizing: border-box;
+padding: 100;
+min-height: 
+}
+
+p {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+body {
+ background-color: rgb(230, 230, 230);
+}
+
+
+
+
+h1 {
+
+font-style: oblique; 
+}
+
+h1 {
+color: #000000;
+}
+
+p {
+font-style: oblique;
+    text-align: center;
+}
+
+
+/* cabecalho */
+
+header  { 
+font-style: oblique;
+color: rgb(255, 255, 254);
+text-align: center;
+background-color: black;
+padding: 15px;
+border-bottom: 5px solid  #363636
+}
+
+/* rodape */
+
+footer {
+background-color: #000000;
+border-top:3px solid  #363636;
+text-align: center;
+padding: 80px ;
+font-style: oblique;
+color: floralwhite
+}
+
+
+bold    {
+color: rgb(255, 255, 255);
+
+}
